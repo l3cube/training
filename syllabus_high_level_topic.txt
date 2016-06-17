@@ -1,0 +1,19 @@
+1) Data Structures 
+    -> Linked List
+    -> Array
+    -> Tree 
+    -> Searching 
+    -> Sorting 
+    -> Hashing
+    -> Graphs 
+  
+2) Operationg System 
+
+
+3) Computer Networking 
+
+
+4) System Programming 
+
+
+5) Computer Architecture 
